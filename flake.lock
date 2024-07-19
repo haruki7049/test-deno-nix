@@ -7,11 +7,11 @@
         "treefmt-nix": "treefmt-nix"
       },
       "locked": {
-        "lastModified": 1721011966,
-        "narHash": "sha256-p8f1I2FzSKocPns5aaG/KpVolUco22HSuL7KsQlXObw=",
+        "lastModified": 1721402411,
+        "narHash": "sha256-2JquDQteIjo0/N4GV/y946yGmzM4C9MELbRppCHAfBQ=",
         "owner": "haruki7049",
         "repo": "deno-overlay",
-        "rev": "82054cebd8b5a241dce294d6185e002869aca221",
+        "rev": "34e862df7ccbd356fd23dc0afafebc91dbbc2fbb",
         "type": "github"
       },
       "original": {
